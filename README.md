@@ -17,4 +17,4 @@ This is a modified version of the previous Assignment1 template.
 
 ## Activity 4
 
-
+![image](https://user-images.githubusercontent.com/55057578/193422858-c8010d2f-d085-4f07-b0db-201a400b684e.png)
