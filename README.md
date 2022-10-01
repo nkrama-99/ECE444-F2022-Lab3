@@ -18,3 +18,6 @@ This is a modified version of the previous Assignment1 template.
 ## Activity 4
 
 ![image](https://user-images.githubusercontent.com/55057578/193422858-c8010d2f-d085-4f07-b0db-201a400b684e.png)
+
+
+![image](https://user-images.githubusercontent.com/55057578/193422992-ec0b91ba-4022-4c71-b60f-28bca87f5f0e.png)
